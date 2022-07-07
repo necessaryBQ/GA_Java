@@ -1,0 +1,18 @@
+- L1
+  - Translation to bytecode
+  - javac
+  - JDK
+  - JDE
+- L2
+  - Setting the stage
+  - Rules for choosing identifier
+    - no reserve word
+    - Java is case-sensitive
+    - first letter is always lowercase
+  - Shifting to Objects
+    - Attributes
+    - Behaviors/Actions
+  - Class
+    - Objects
+    - variables = the state of an object
+    - method = the object's Behaviors
